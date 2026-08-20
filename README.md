@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Ashraf 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Ashraf </h1>
 <h3 align="center">Aspiring Cybersecurity Professional | Red Team Intern @ Cyberster | BS Digital Forensics & Cyber Security</h3>
 
 <p align="center">
@@ -15,18 +15,17 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
 - 🎓 Currently pursuing **BS in Digital Forensics & Cyber Security** at Hamdard University, KDA Campus, Karachi (5th Semester)
 - 🛡️ Currently a **Red Team Intern** at **Cyberster**, performing hands-on security assessments and penetration testing in simulated environments
 - 🔵🔴 Bridging **Red Team** (offensive) and **Blue Team** (defensive) security — from exploitation and reconnaissance to digital forensics and threat hunting
 - 🧰 Building security tooling like **STRYKER-7** (automated VAPT engine) and **Phronsis** (AI-powered SIEM)
 - 📜 Working toward **CEH**, and completed the **Blue Team Junior Analyst (BTJA)** pathway
-- 🌱 Also founder-building **QUEZO** — a smart queue management SaaS platform
 
 ---
 
-### 🛠️ Tech & Tools
+###  Tech & Tools
 
 **Offensive Security**
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-C00000?style=flat-square)
@@ -55,7 +54,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table>
   <tr>
@@ -90,7 +89,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadashraf181&show_icons=true&theme=radical&hide_border=true" />
