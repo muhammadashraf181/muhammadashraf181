@@ -101,8 +101,6 @@
   </tr>
 </table>
 
-> **Note:** I don't have your real repo URLs, so I've guessed slugs (`STRYKER-7`, `Phronsis-SIEM`, `SafeEd`, `Android-Security-Assessment`) based on project names — replace `href` values above with your actual repo links once you confirm them, or the images will link to 404 pages.
-
 ---
 
 ### <img src="https://img.shields.io/badge/-GitHub%20Stats-1a1a1a?style=flat-square&logo=github&logoColor=white" height="28"/>
