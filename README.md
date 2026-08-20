@@ -30,7 +30,6 @@
 - **Focus** — Bridging **Red Team** (offensive) and **Blue Team** (defensive) security — from exploitation and reconnaissance to digital forensics and threat hunting
 - **Building** — Security tooling including **STRYKER-7** (automated VAPT engine) and **Phronsis** (AI-powered SIEM)
 - **Certifications** — Working toward **CEH**; completed the **Blue Team Junior Analyst (BTJA)** pathway
-- 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 ---
@@ -74,13 +73,13 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/muhammadashraf181/STRYKER-7" target="_blank">
+      <a href="https://github.com/muhammadashraf181/STRYKER-7-Tactical-Suite" target="_blank">
         <img src="assets/stryker7_banner.png" alt="STRYKER-7 Tactical Suite" width="100%" />
       </a>
       <p><b>STRYKER-7 Tactical Suite</b><br/>AI-powered VAPT automation framework integrating 7 tools with real-time, human-readable vulnerability insights and mitigation guidance.</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/muhammadashraf181/Phronsis-SIEM" target="_blank">
+      <a href="https://github.com/muhammadashraf181/Phronsis-AI-SIEM-Engine" target="_blank">
         <img src="assets/phronsis_siem_banner.png" alt="Phronsis AI SIEM Engine" width="100%" />
       </a>
       <p><b>Phronsis – AI SIEM Engine</b><br/>Automated threat detection platform with file integrity monitoring, event graph analytics, and OpenCV-based access control.</p>
@@ -88,13 +87,13 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/muhammadashraf181/SafeEd" target="_blank">
+      <a href="https://github.com/muhammadashraf181/SafeEd-University-Record-System" target="_blank">
         <img src="assets/safeed_banner.png" alt="SafeEd Secure Record System" width="100%" />
       </a>
       <p><b>SafeEd – Secure Record System</b><br/>Console-based student record system with SHA-256 credential hashing, RBAC, and security activity logging.</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/muhammadashraf181/Android-Security-Assessment" target="_blank">
+      <a href="https://github.com/muhammadashraf181/Android-Penetration-Testing-Lab" target="_blank">
         <img src="assets/android_pentest_banner.png" alt="Android Penetration Testing Lab" width="100%" />
       </a>
       <p><b>Android Security Assessment</b><br/>Vulnerability assessment on an Android application using structured threat analysis methodology.</p>
@@ -108,17 +107,9 @@
 
 ### <img src="https://img.shields.io/badge/-GitHub%20Stats-1a1a1a?style=flat-square&logo=github&logoColor=white" height="28"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadashraf181&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadashraf181&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf181&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadashraf181&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
