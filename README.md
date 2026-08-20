@@ -129,7 +129,7 @@
 </p>
 
 <div align="center">
-<i>Cross-functional Red Team / Blue Team practitioner — building tools, breaking systems (legally), and documenting it all.</i>
+<i>Red Team / Blue Team practitioner — building tools, breaking systems (legally), and documenting it all.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:C00000&height=100&section=footer" width="100%"/>
 </div>
